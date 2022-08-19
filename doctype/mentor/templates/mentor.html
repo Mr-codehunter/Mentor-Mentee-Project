@@ -1,0 +1,56 @@
+{%  extends "templates/web.html" %}
+
+{% block page_content %}
+
+<h3><center><i>Mentor Personal Details</i></center></h3>
+
+<div class="py-20 row">
+
+    <div class="col-sm-2">
+
+        <img alt="{{ title }}" src="{{ image }}">
+
+    </div>
+
+    <div class="col">
+
+        <h1>{{ full_name }}</h1><br>
+
+        <p class="lead">E-mail :  {{ email }}</p>
+        
+        
+
+        <div>
+
+            {%- if status == 'Available' -%}
+
+            <span class="badge badge-success">Available</span>
+            {%- elif status == 'Issued' -%}
+
+            <span class="badge badge-primary">Issued</span>
+
+            {%- endif -%}
+
+        </div>
+
+        <div class="mt-4">
+
+            
+            <div>Contact : <strong>{{ phone_no}}</strong></div>
+            
+            
+
+        </div>
+        
+        
+
+
+    </div>
+
+</div>
+
+
+
+
+
+{% endblock %}
