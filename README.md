@@ -1,6 +1,4 @@
-
-
-# Mentor-Mentee-Project
+# Mentor - Mentee Project 
 
 # ***Documentation***
 
@@ -43,7 +41,10 @@
 
 - Login in the frappe
 
-![Screenshot](images/m1.png)
+<p align="center">
+  <img src="images/m1.png" />
+</p>
+
 
 ![Screenshot](images/m2.png)
 
@@ -66,7 +67,10 @@
 - In Published field click on edit button and set default value is 1.
 - After this scroll down and set Naming st.####### and tick on has web view, allow guest to view, in route write stuents and in published write published.
 
-![Screenshot](images/m6.png)
+<p align="center">
+  <img src="images/m6.png" />
+</p>
+
 
 - After this click on save button. Now you can see that Student Doctype is created and to fetch the first name and last name as full name to add the python code on mentee.py location frappe-bench/apps/erpnext/erpnext/education/doctype/mentee/.
 
