@@ -238,3 +238,12 @@ I have add screenshots of mentor Doctype for some references.
 ![Screenshot](images/29.png)
 
 ![Screenshot](images/30.png)
+
+
+#### Step 8 Add option in navbar :
+
+- Go to website
+- Click on website settings
+- Add option in navbar
+
+![Screenshot](images/31.png)
