@@ -66,7 +66,30 @@
 
 ![Screenshot](images/m6.png)
 
-- After this click on save button. Now you can see that Student Doctype is created.
+- After this click on save button. Now you can see that Student Doctype is created and to fetch the first name and last name as full name to add the python code on mentee.py location frappe-bench/apps/erpnext/erpnext/education/doctype/mentee/.
+
+```
+# Copyright (c) 2022, Frappe Technologies Pvt. Ltd. and contributors
+# For license information, please see license.txt
+
+# import frappe
+from frappe.website.website_generator import WebsiteGenerator
+
+class Mentee(WebsiteGenerator):
+    #this method will run every time a document is saved
+    def before_save(self):
+        self.full_name = f'{self.first_name} {self.last_name or ""}'
+
+```
+
+##### NOTE
+
+If the above snippet doesn't work for you , make sure server side scripts are enabled, and then restart bench
+
+```
+bench --site <your_site> set-config server_script_enabled true
+```
+
 
 #### Step 3 Add Student details in the dcotype :
 
@@ -149,5 +172,11 @@ Paste it on mentee.html
 
 </div>
 ```
+
+#### Step 4 See the details on the database :
+
+
+
+
 
 
