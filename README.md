@@ -235,4 +235,6 @@ I have add screenshots of mentor Doctype for some references.
 
 #### Step 7 show the detials of mentor metnee in webpage :
 
+![Screenshot](images/29.png)
 
+![Screenshot](images/30.png)
