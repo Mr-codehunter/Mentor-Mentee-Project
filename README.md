@@ -85,5 +85,47 @@
 
 ![Screenshot](images/m10.png)
 
+Create the webpage like this add the html code in the mentee.html
+to open this file frappe-bench/apps/erpnext/erpnext/education/doctype/mentee/templates/mentee.html
 
+Paste it on mentee.html
+
+```
+{%  extends "templates/web.html" %}
+
+{% block page_content %}
+
+<div class="py-20 row">
+
+    <div class="col-sm-2">
+
+        <img alt="{{ title }}" src="{{ image }}">
+
+    </div>
+
+    <div class="col">
+
+        <h1>{{ full_name }}</h1>
+
+        <p class="lead"> {{ roll_no }}</p>
+
+        <div>
+
+            {%- if status == 'Available' -%}
+
+            <span class="badge badge-success">Available</span>
+            {%- elif status == 'Issued' -%}
+
+            <span class="badge badge-primary">Issued</span>
+
+            {%- endif -%}
+
+        </div>
+
+        <div class="mt-4">
+
+                <div>Contact : <strong>{{ phone_no }}</strong></div><br>
+
+                <div>E-mail : <strong>{{ email }}</strong></div><br>
+```
 
