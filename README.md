@@ -215,5 +215,19 @@ I have add screenshots of mentor Doctype for some references.
 
 - All the steps are same.
 
-![Screenshot](images/m21.png)
+![Screenshot](images/21.png)
 
+
+![Screenshot](images/22.png)
+
+![Screenshot](images/23.png)
+
+![Screenshot](images/24.png)
+
+![Screenshot](images/25.png)
+
+![Screenshot](images/26.png)
+
+![Screenshot](images/27.png)
+
+![Screenshot](images/28.png)
