@@ -1,2 +1,8 @@
 # Mentor-Mentee-Project
-Mentor &amp; Mentee Details
+
+### Documentation
+
+####  prerequits
+
+```
+- Basic understading of LMS (Libarary Management System)
