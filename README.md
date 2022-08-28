@@ -74,6 +74,10 @@
 
 ![Screenshot](images/m7.png)
 
+- Now click on add Mentee/Student.
+
+![Screenshot](images/m8.png)
+
 
 
 
