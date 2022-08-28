@@ -263,7 +263,7 @@ I have add screenshots of mentor Doctype for some references.
 - I learned Jinja tool, Linux commands & many more.
 - I have become so confident in myself that now I can do any project in Frappe framework.
 
-# Thanks to @Rai sir, Satinder sir & Singla sir for guiding me.
+# Thanks to @Rai sir, Satinder sir, Singla sir and for guiding me and also thanks to all SDC members for hepling me in this project. 
 
 # References 
 
