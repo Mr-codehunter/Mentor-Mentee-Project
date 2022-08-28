@@ -78,9 +78,12 @@
 
 ![Screenshot](images/m8.png)
 
+- After this student details saved you can see that on the upper screensort.
+- Click on the student Id and see the details after this click on the right side option see on website.
 
+![Screenshot](images/m9.png)
 
-
+![Screenshot](images/m10.png)
 
 
 
