@@ -40,3 +40,5 @@
 #### Step 1:
 
 - Login in the frappe
+
+![Screenshot](images/m1.png)
