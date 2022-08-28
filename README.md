@@ -44,3 +44,19 @@
 ![Screenshot](images/m1.png)
 
 ![Screenshot](images/m2.png)
+
+#### Step 2 cretae Doctype:
+
+- Go to build and click on the doctype after this click on new doctype and create your first doctype student.
+- Doctype name Student, module name Education
+- Check on Quick Entry, Track changes
+- Add fields in the fields section like- Name, Roll No., Email etc.
+
+![Screenshot](images/m3.png)
+
+
+
+
+
+
+
