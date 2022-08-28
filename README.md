@@ -129,3 +129,25 @@ Paste it on mentee.html
                 <div>E-mail : <strong>{{ email }}</strong></div><br>
 ```
 
+- open mentee_row.html in same location and paste it.
+
+```<div class="py-8 row">
+
+    <div class="col-sm-1">
+
+
+
+    </div>
+
+    <div class="col">
+
+        <a class="font-size-lg" href="{{ doc.route }}">{{ full_name }}</a>
+
+        <p class="text-muted"> {{ roll_no }}</p>
+
+    </div>
+
+</div>
+```
+
+
