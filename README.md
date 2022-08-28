@@ -54,7 +54,25 @@
 
 ![Screenshot](images/m3.png)
 
+![Screenshot](images/m5.png)
+
 ![Screenshot](images/m4.png)
+
+- In Full Name field click on edit button and select read only.
+- In Roll NO. field click on edit button and select unique.
+- In Route field click on edit button and set default route like students.
+- In Published field click on edit button and set default value is 1.
+- After this scroll down and set Naming st.####### and tick on has web view, allow guest to view, in route write stuents and in published write published.
+
+![Screenshot](images/m6.png)
+
+- After this click on save button. Now you can see that Student Doctype is created.
+
+#### Step 3 Add Student details in the dcotype :
+
+- After save that on the right hand you can see the GO to Student List click on it.
+
+![Screenshot](images/m7.png)
 
 
 
