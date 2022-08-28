@@ -208,3 +208,29 @@ I have add screenshots of mentor Doctype for some references.
 ![Screenshot](images/m19.png)
 
 ![Screenshot](images/m20.png)
+
+
+#### Step 6 Create Relation Doctype :
+
+
+All the steps are same.
+
+![Screenshot](images/m21.png)
+
+![Screenshot](images/m22.png)
+
+![Screenshot](images/m23.png)
+
+![Screenshot](images/m24.png)
+
+![Screenshot](images/m25.png)
+
+![Screenshot](images/m26.png)
+
+![Screenshot](images/m27.png)
+
+![Screenshot](images/m28.png)
+
+![Screenshot](images/m29.png)
+
+![Screenshot](images/m20.png)
