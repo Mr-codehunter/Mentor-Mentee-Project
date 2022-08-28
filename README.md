@@ -249,3 +249,26 @@ I have add screenshots of mentor Doctype for some references.
 - Add option in navbar
 
 ![Screenshot](images/31.png)
+
+
+
+# Experience
+
+- My experience have very well in the mentor-mentee project.
+- I learned many new things.
+- I learned actual concept of RDBMS.
+- I learned Jinja tool, Linux commands & many more.
+- I have become so confident in myself that now I can do any project in Frappe framework.
+
+# Thanks to @Rai sir, Satinder sir & Singla sir for guiding me.
+
+# References 
+
+
+ - https://frappeframework.com/docs/v14/user/en/tutorial
+ 
+ - https://discuss.erpnext.com/t/making-a-web-page-that-displays-a-doctypes-data/27133
+ 
+ - https://agiliq.com/blog/2018/07/frappe-web-pages/
+ 
+ - https://codepen.io/dcode-software/pen/zYGOrzK
