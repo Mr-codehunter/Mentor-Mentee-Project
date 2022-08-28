@@ -42,3 +42,5 @@
 - Login in the frappe
 
 ![Screenshot](images/m1.png)
+
+![Screenshot](images/m2.png)
