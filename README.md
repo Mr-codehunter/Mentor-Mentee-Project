@@ -175,7 +175,7 @@ Paste it on mentee.html
 
 #### Step 4 See the details on the database :
 
-- Open the Bennch directory and type the command.
+- Open the Bench directory and type the command.
 
 ```
 bench --site <your_site> mariadb
@@ -184,7 +184,27 @@ bench --site <your_site> mariadb
 ![Screenshot](images/m11.png)
 
 
+#### Step 5 Create Mentor Doctype :
 
+All the steps are same to create a mentor dcotype.
+That's why I'm not writing again.
 
+I have add screenshots of mentor Doctype for some references.
 
+![Screenshot](images/m12.png)
 
+![Screenshot](images/m13.png)
+
+![Screenshot](images/m14.png)
+
+![Screenshot](images/m15.png)
+
+![Screenshot](images/m16.png)
+
+![Screenshot](images/m17.png)
+
+![Screenshot](images/m18.png)
+
+![Screenshot](images/m19.png)
+
+![Screenshot](images/m20.png)
