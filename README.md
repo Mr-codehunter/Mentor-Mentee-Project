@@ -175,6 +175,14 @@ Paste it on mentee.html
 
 #### Step 4 See the details on the database :
 
+- Open the Bennch directory and type the command.
+
+```
+bench --site <your_site> mariadb
+```
+
+![Screenshot](images/m11.png)
+
 
 
 
