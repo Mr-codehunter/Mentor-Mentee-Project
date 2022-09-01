@@ -43,18 +43,18 @@ feather-search">
     {% for relation in relations %}
 <tr>
 <td>
-    <a class="ellipsis" href=""title="roll_no" data-doctype="Student" data-name="Roll No.">{{relation[0] }}</a>
+    <a href="/students/{{relation[0]}}">{{relation[1] }}</a>
     </td>
 
 <td>
 
-<a href="">{{ relation[1] }}</a>
+<a href="/students/{{relation[0]}}">{{ relation[2] }}</a>
 
 </td>
 
 <td>
 
-<a href="">{{ relation[2] }}</a>
+<a href="/mentors/{{relation[3]}}">{{ relation[4] }}</a>
     </td>
 
 </tr>
@@ -65,9 +65,6 @@ feather-search">
 
 </table>
 
-<div class="more-block mt-6  hide">
-			<button class="btn btn-light btn-more btn-sm">More</button>
-		</div>
 
 <script src="./src/tablesort.js"></script>
 
